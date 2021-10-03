@@ -1,5 +1,5 @@
 # Euler_practice
 
-Solved some practice problems from below URL in Java.
+Solved some practice problems in Java from below URL.
 
 https://projecteuler.net/archives
